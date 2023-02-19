@@ -1,6 +1,6 @@
-# Ikshit
-## 102003403
-### CO16
+# Name-Ikshit
+#### Roll No.-102003403
+#### 3CO16
 
 
 ## Sampling techniques
