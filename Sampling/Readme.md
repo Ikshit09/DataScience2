@@ -16,5 +16,6 @@
 3.Gradient Boosting
 4.XGboost
 5.StackingClassifier
+![image](https://user-images.githubusercontent.com/95186674/219977827-4a666e13-bb43-4b10-b52a-6a1128012094.png)
 
 ## Best Accuracy 98.6894% -Stacking Classifier Model , Sampling Technique Systematic
